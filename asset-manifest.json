@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-tracker-app/static/css/main.435d5a8d.css",
+    "main.js": "/movie-tracker-app/static/js/main.a3f6ce23.js",
+    "index.html": "/movie-tracker-app/index.html",
+    "main.435d5a8d.css.map": "/movie-tracker-app/static/css/main.435d5a8d.css.map",
+    "main.a3f6ce23.js.map": "/movie-tracker-app/static/js/main.a3f6ce23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.435d5a8d.css",
+    "static/js/main.a3f6ce23.js"
+  ]
+}
